@@ -28,3 +28,4 @@ Algorithm:
 
 Output:
 
+![Screenshot 2023-04-26 122018](https://user-images.githubusercontent.com/125973911/234493460-1d30f589-58d8-46df-bdc7-efa2de09757c.png)
